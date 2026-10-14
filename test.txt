@@ -3,3 +3,5 @@ added header MASTER
 hello word
 
 update text. END.
+
+Show GIT PUSH command.
